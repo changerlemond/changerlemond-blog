@@ -1,4 +1,19 @@
-baseURL = 'https://jungclaire.github.io/'
-#languageCode = 'ko-kr'
-title = 'Claire Blog'
+baseURL = 'https://jungclaire.netlify.app/'
+languageCode = 'ko-kr'
+title = '평범한 개발자의 소소한 이야기'
 theme = "github-style"
+
+enableGitalk = true
+
+[params.gitalk]
+clientID = "jungclaire"
+clientSecret = "Your client secret"
+repo = "https://github.com/jungclaire/claire-blog"
+owner = "jungclaire"
+admin = "jungclaire"
+id = "location.pathname"
+labels = "blog"
+perPage = 30
+pagerDirection = "last"
+createIssueManually = true
+distractionFreeMode = false
