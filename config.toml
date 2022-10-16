@@ -5,18 +5,17 @@ theme = "github-style"
 
 [params]
 author = "jungclaire"
-description = "Software Engineer"
+description = "Software Engineer 👩🏻‍💻 Hello, World!"
 github = "jungclaire"
 #facebook = "MeiK2333"
 #twitter = "MeiK2333"
 linkedin = "seunghee-jung-claire"
-instagram = "jungclaire__"
+#instagram = ""
 #tumblr = "MeiK2333"
 email = "dev.jungclaire@gmail.com"
-#url = "https://github.com/jungclaire"
+url = "https://jungclaire.netlify.app/"
 keywords = "blog"
 rss = false
-lastmod = true
 userStatusEmoji = "💜"
 favicon = "/images/github.png"
 location = "Seoul, Republic of Korea"

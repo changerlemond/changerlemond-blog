@@ -1,1 +1,1 @@
-`Software Engineer` `Java` `Kafka` `GraphQL` `MongoDB` `TypeScript` `Rust` `Swift` `AWS` `Docker`
+`Java` `Spring` `Kafka` `GraphQL` `MongoDB` `TypeScript` `Rust` `Swift` `AWS` `Docker`
