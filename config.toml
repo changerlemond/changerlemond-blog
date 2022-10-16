@@ -3,7 +3,24 @@ languageCode = 'ko-kr'
 title = '평범한 개발자의 소소한 이야기'
 theme = "github-style"
 
-enableGitalk = true
+[params]
+author = "jungclaire"
+description = "Software Engineer"
+github = "jungclaire"
+#facebook = "MeiK2333"
+#twitter = "MeiK2333"
+linkedin = "seunghee-jung-claire"
+instagram = "jungclaire__"
+#tumblr = "MeiK2333"
+email = "dev.jungclaire@gmail.com"
+#url = "https://github.com/jungclaire"
+keywords = "blog"
+rss = false
+lastmod = true
+userStatusEmoji = "💜"
+favicon = "/images/github.png"
+location = "Seoul, Republic of Korea"
+#enableGitalk = true
 
 [params.gitalk]
 clientID = "jungclaire"
