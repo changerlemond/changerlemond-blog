@@ -20,16 +20,15 @@ lastmod = true
 userStatusEmoji = "💜"
 favicon = "/images/github.png"
 location = "Seoul, Republic of Korea"
-#enableGitalk = true
+enableGitalk = true
 
 [params.gitalk]
-clientID = "jungclaire"
-clientSecret = "Your client secret"
-repo = "https://github.com/jungclaire/claire-blog"
+clientID = "b5cbdc5c9072d95c0f39"
+clientSecret = "b2b73c48f61a492cd160f6ca6fd547dd64cf5417"
+repo = "claire-blog"
 owner = "jungclaire"
 admin = "jungclaire"
-id = "location.pathname"
-labels = "blog"
+labels = "gitalk"
 perPage = 30
 pagerDirection = "last"
 createIssueManually = true
