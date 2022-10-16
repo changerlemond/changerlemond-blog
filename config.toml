@@ -1,0 +1,4 @@
+baseURL = 'https://jungclaire.github.io/'
+#languageCode = 'ko-kr'
+title = 'Claire Blog'
+theme = "github-style"
