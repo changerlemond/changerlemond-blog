@@ -1,5 +1,8 @@
-
-
+---
+title: "MongoDB 완전관리형, DocumentDB 사용하기"
+date: 2022-10-03T01:23:00+09:00
+draft: false
+---
 현재 프로젝트에서 MongoDB를 사용하고 있는데, DB만을 관리할 수가 없어서 AWS에서 제공하는 DocumentDB를 사용하게 되었다. AWS에서 제공하고 있는데, MongoDB와 완전히 호환되는 서비스이다.
 
 https://ap-northeast-2.console.aws.amazon.com/docdb/home?region=ap-northeast-2#landing
