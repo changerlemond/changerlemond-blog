@@ -21,9 +21,11 @@ Object의 문자정보를 "class(이름)@16진수"의 해시 코드로 보여줄
 
 Object 객체에 구현된 내용을 보고 이해가 더 쉽게 되었습니다.
 
+```java
     public String toString() {
         return getClass().getName() + "@" + Integer.toHexString(hashCode());
     }
+```
 
 Object는 최상위 클래스이기 때문에 다른 자료형에서도 이 toString을 사용할 수 있습니다. 
 해시 코드는 해시 함수에 의해 자동으로 생성된 값이기 때문에 객체를 유일하게 식별할 수 있는 값이기도 합니다. 
@@ -31,15 +33,15 @@ Object는 최상위 클래스이기 때문에 다른 자료형에서도 이 toSt
 다른 자료형에서도 이런 구현 방식을 찾아볼 수 있었습니다.
 
 ObjectId
-
+```java
     @Override
     public String toString() {
         return toHexString();
     }
-
+```
 
 Arrays
-
+```java
     /**
      * Returns a string representation of the contents of the specified array.
      * If the array contains other arrays as elements, they are converted to
@@ -73,7 +75,7 @@ Arrays
             b.append(", ");
         }
     }
-
+```
 
 그럼 toString()을 매번 재정의해서 사용해줘야 할까요? 생각보다 귀찮은 작업입니다.
 특히 많이 쓰이는 Json 형태의 String으로 변환해주려면 직접 수기로 쓰는 방법밖에 없을까요?
@@ -91,18 +93,20 @@ String concat과 StringBuffer, StringBuilder는 워낙 많이 사용하는 방�
 
 
 gradle 환경이어서 아래와 같이 build.gradle에 선언해주었습니다.
-
+```java
     dependencies {
             implementation 'org.apache.commons:commons-lang3:3.12.0'
     }
-
+```
 
 그리고 내가 사용할 클래스에 .toString() 메서드를 이렇게만 정의해줘서 사용하면 됩니다.
 
+```java
 @Override
 public String toString() {
-return ToStringBuilder.reflectionToString(this, ToStringStyle.JSON_STYLE);
+    return ToStringBuilder.reflectionToString(this, ToStringStyle.JSON_STYLE);
 }
+```
 이렇게 하면 Json 형태로 Object의 내용을 String 형태로 편리하게 뽑아낼 수 있었습니다.
 
 여기서 사용한 ToStringStyle에는 Json 말고도 여러 형태를 제공하고 있어서 본인이 원하는 스타일로 지정해 문자열을 출력할 수 있습니다. 
@@ -122,10 +126,10 @@ ToStringBuilder에 직접 append를 하는 것도 가능합니다. (필드명과
 
 ToStringBuilder, 내부적인 코드를 보니 이렇게 동작하고 있었습니다.
 
-```
+```java
 public ToStringBuilder append(final String fieldName, final boolean value) {
-style.append(buffer, fieldName, value);
-return this;
+    style.append(buffer, fieldName, value);
+    return this;
 }
 ```
 

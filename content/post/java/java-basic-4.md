@@ -46,7 +46,7 @@ draft: false
 
 1. for문 이용
 
-```
+```java
 int [ ] array = { 100, 90, 85, 10, 20};
 
 for(int i=0; i<array.length; i++) {
@@ -57,7 +57,7 @@ for(int i=0; i<array.length; i++) {
 
 2. Arrays.toString() 이용
 
-```
+```java
 int[ ] array = { 100, 90, 85, 10, 20 };
 System.out.println(Arrays.toString(array));
 ```
@@ -65,14 +65,14 @@ System.out.println(Arrays.toString(array));
 <br/>
 
 *바로 배열을 출력하는 경우
-```
+```java
 System.out.println(array);
 // [I@14318bb와 같은 형식의 문자열이 출력된다.]
 ```
 
 #
 #### String 배열의 선언과 생성
-```
+```java
 String[ ] name = new String[3];
 ```
 

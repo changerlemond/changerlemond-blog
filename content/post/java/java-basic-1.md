@@ -14,7 +14,7 @@ draft: false
 - System.out.println(): 괄호 안의 내용을 출력하고 줄바꿈을 한다.
 
 
-```
+```java
 class {
     public static void main(String args[]) {
         System.out.println("Hello, world");
@@ -30,7 +30,7 @@ class {
 (+ 덧셈, - 뺄셈, * 곱셈, / 나눗셈)
 
 
-```
+```java
 class {
     public static void main(Stirng args[]) {
         System.out.println(5+3); // 8
@@ -107,7 +107,7 @@ double: 64bit / 8byte
 
 #
 ### printf 이용
-```
+```java
 System.out.printf("age: %d", age);
 System.out.printf("age: %d", 14);
 System.out.printf("age:14");   
@@ -119,7 +119,7 @@ System.out.printf("age:14");
 ### 화면으로부터 입력받는 방법
 : Scanner 사용
 
-```
+```java
 class {
     public static void main(String args[]) {
         Scanner scanner = new Scanner(System.in);

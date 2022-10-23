@@ -44,7 +44,7 @@ RuntimeException 클래스들: 프로그래머의 실수로 발생하는 예외
 목적: 프로그램의 비정상 종료를 막고 정상적인 실행상태를 유지하는 것
 ```
 
-```
+```java
 try {
     // 예외가 발생할 가능성이 있는 문장들을 넣는다.
 } catch (Exception1 e1) {
@@ -75,7 +75,7 @@ getMessage(): 발생한 예외클래스의 인스턴스에 저장된 메시지�
 
 #
 ### 멀티 catch 블럭
-```
+```java
 try {
     ....
 } catch (ExceptionA | ExceptionB e) {
@@ -94,7 +94,7 @@ try {
 
 #
 ### 메서드에 예외 선언하기
-```
+```java
 void method() throws Exception {
     // 메서드의 내용
 }
@@ -103,7 +103,7 @@ void method() throws Exception {
 
 #
 ### finally블럭
-```
+```java
 try {
     // 예외가 발생할 가능성이 있는 문장들을 넣는다.
 } catch (Exception1 e1) {
@@ -117,7 +117,7 @@ try {
 
 #
 ### 사용자 정의 예외 만들기
-```
+```java
 class MyException extends Exception {
     MyException(String message) {  // 문자열을 매개변수로 받는 생성자
         super(message);            // 조상인 Exception클래스의 생성자를 호출한다.

@@ -81,7 +81,7 @@ package 패키지명;
 ### import
 클래스의 코드를 작성하기 전에 import문으로 사용하고자 하는 클래스의 패키지를 미리 명시해주면 소스코드에 사용되는 클래스이름에서 패키지명은 생략할 수 있다.
 
-```
+```java
 import 패키지명.클래스명;
 or
 import 패키지명.*;
@@ -179,13 +179,13 @@ public > protected > (default) > private
 #
 ### 추상 클래스(abstract class)
 추상 클래스: 미완성 설계도. 인스턴스 생성불가. 미완성 메서드(추상 메서드)를 포함하고 있는 클래스.  
-```
+```java
 abstract 리턴타입 메서드이름 ();
 ```
 
 #
 ### 인터페이스(interface)
-```
+```java
 interface 인터페이스 이름 {
     public static final 타입 상수이름 = 값;
     public abstract 메서드이름(매개변수목록);
