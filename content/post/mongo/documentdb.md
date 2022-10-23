@@ -1,6 +1,7 @@
 ---
 title: "MongoDB 완전관리형, DocumentDB 사용하기"
 date: 2022-10-03T01:23:00+09:00
+tags: ['mongoDB']
 draft: false
 ---
 현재 프로젝트에서 MongoDB를 사용하고 있는데, DB만을 관리할 수가 없어서 AWS에서 제공하는 DocumentDB를 사용하게 되었다. AWS에서 제공하고 있는데, MongoDB와 완전히 호환되는 서비스이다.
@@ -27,7 +28,11 @@ https://ap-northeast-2.console.aws.amazon.com/docdb/home?region=ap-northeast-2#l
 
 
 DocumentDB를 만들어본 과정을 기록해본다. Amazon DocumentDB 시작을 누르면 아래의 화면부터 시작한다.
-<img src="./documentdb-1.png">
+
+<div style="text-align:center">
+    <img src="/static/images/mongo/documentdb-1.png" alt="documentDB-start" width="1280" height="1728"/>
+</div>
+
 여기서 중요한 건 아무래도 인스턴스 클래스이다. 기본적으로는 db.r6g.large로 되어 있으면 금액부터가 (....) 
 가장 낮은 클래스는 db.t3.medium이다. 
 무료 평가판으로 사용이 가능하기 때문에 이 버전부터 사용하면 좋을 것 같다. (참고로 r은 굉장히 높은 금액이라고 들었다. 
@@ -37,8 +42,12 @@ DocumentDB를 만들어본 과정을 기록해본다. Amazon DocumentDB 시작�
 
 인증의 경우는 mongoDB의 마스터 계정을 만들어주는 것이다. 
 이름과 비밀번호를 모두 만들어주면 된다.
-<img src="./documentdb-2.png">
-<img src="./documentdb-3.png">
+<div style="text-align:center">
+    <img src="/static/images/mongo/documentdb-2.png" alt="documentDB-setting" width="1280" height="1126"/>
+</div>
+<div style="text-align:center">
+    <img src="/static/images/mongo/documentdb-3.png" alt="documentDB-setting" width="1280" height="500"/>
+</div>
 밑에 고급 설정을 표시하면 vpc가 필요하면 별도 설정이 가능하고, 클러스터 옵션을 보면 mongoDB인 27017 포트로 되어 있다.
 
 여기서 중요하게 본 건 백업이다. 
@@ -58,12 +67,18 @@ DB이기 때문에 원본과 복제본이 만들어지는 것으로 보인다.
 새롭게 적용시켜 준 후에는 반드시 클러스터를 재실행시켜줘야 한다. 
 이렇게 pending-reboot 상태라는 건 설정이 변경되어 재부팅이 필요한데 pending 되어있다는 상태이다.   
 
-<img src="./documentdb-4.png" alt="documentDB pending">
+<div style="text-align:center">
+    <img src="/static/images/mongo/documentdb-4.png" alt="documentDB-pending" width="1280" height="203"/>
+</div>
 
 재부팅은 클러스터 목록에서 재부팅이 필요한 클러스터를 클릭해 작업을 누르면 재부팅 메뉴를 찾을 수 있다.  
 
-<img src="./documentdb-5.png" alt="documentDB 재부팅">
-<img src="./documentdb-6.png" alt="documentDB 완료">
+<div style="text-align:center">
+    <img src="/static/images/mongo/documentdb-5.png" alt="documentDB-reboot" width="1280" height="714"/>
+</div>
+<div style="text-align:center">
+    <img src="/static/images/mongo/documentdb-6.png" alt="documentDB-complete" width="1280" height="200"/>
+</div>
 
 서버의 DB와 연결을 해보려고 한다. mongoDB 주소는 이렇게 연결해주면 된다.
 
