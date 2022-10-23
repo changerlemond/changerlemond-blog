@@ -1,8 +1,11 @@
 ---
 title: "toString에도 종류가 있다는 걸 아세요? : ToStringBuilder 사용기"
 date: 2022-04-24T22:38:00+09:00
+tags: ['java']
 draft: false
 ---
+toString 파헤치기 (feat. ToStringBuilder)
+<!--more--> 
 
 저는 항상 @toString 어노테이션을 잘 써왔습니다. 
 lombok에서 제공하고 있는 아주 편한 어노테이션이죠. 

@@ -1,6 +1,7 @@
 ---
 title: "자바의 변수"
 date: 2022-05-16T00:15:00+09:00
+tags: ['java']
 draft: false
 ---
 자바의 변수

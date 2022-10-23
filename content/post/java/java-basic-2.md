@@ -1,6 +1,7 @@
 ---
 title: "자바의 연산자"
 date: 2022-05-22T22:44:00+09:00
+tags: ['java']
 draft: false
 ---
 

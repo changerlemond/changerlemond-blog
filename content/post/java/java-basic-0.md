@@ -1,6 +1,7 @@
 ---
 title: "자바, 그리고 자바의 특징과 JVM 알아보기"
 date: 2022-05-08T22:31:00+09:00
+tags: ['java']
 draft: false
 ---
 

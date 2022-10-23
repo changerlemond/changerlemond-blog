@@ -1,6 +1,7 @@
 ---
 title: "개발자가 개발자에게 전하는 이야기"
 date: 2022-08-08T02:08:20+09:00
+tags: ['thinking']
 draft: false
 ---
 feat. 나에게 전하는 이야기
