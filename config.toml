@@ -33,3 +33,8 @@ perPage = 30
 pagerDirection = "last"
 createIssueManually = true
 distractionFreeMode = false
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
