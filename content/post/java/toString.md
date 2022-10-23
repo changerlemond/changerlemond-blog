@@ -77,7 +77,11 @@ Arrays
 
 그럼 toString()을 매번 재정의해서 사용해줘야 할까요? 생각보다 귀찮은 작업입니다.
 특히 많이 쓰이는 Json 형태의 String으로 변환해주려면 직접 수기로 쓰는 방법밖에 없을까요?
+인텔리제이에서 이 부분을 보고 더 찾아보게 됐습니다.
 
+<div style="text-align:center">
+    <img src="/images/java/toString.png" alt="documentdb-start" />
+</div>
 
 String concat과 StringBuffer, StringBuilder는 워낙 많이 사용하는 방식이니 이 글에서 설명하지는 않으려 합니다. 
 다만 여기서 처음 본 것은 ToStringBuilder였습니다. 
