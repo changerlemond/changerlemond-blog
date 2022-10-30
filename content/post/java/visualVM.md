@@ -1,6 +1,7 @@
 ---
 title: "VisualVM 사용하기"
 date: 2022-10-30T22:45:38+09:00
+tags: ['java']
 draft: false
 ---
 
