@@ -1,19 +1,19 @@
-baseURL = 'https://jungclaire.netlify.app/'
+baseURL = 'https://changerlemond.netlify.app/'
 languageCode = 'ko-kr'
 title = '평범한 개발자의 소소한 이야기'
 theme = "github-style"
 
 [params]
-author = "jungclaire"
-description = "Software Engineer 👩🏻‍💻 Hello, World!"
-github = "jungclaire"
+author = "changerlemond"
+description = "Run code, change world."
+github = "changerlemond"
 #facebook = "MeiK2333"
 #twitter = "MeiK2333"
 #linkedin = ""
 #instagram = ""
 #tumblr = "MeiK2333"
 email = "dev.jungclaire@gmail.com"
-url = "https://jungclaire.netlify.app/"
+url = "https://changerlemond.netlify.app/"
 keywords = "blog"
 rss = false
 userStatusEmoji = "🏖"
@@ -22,11 +22,11 @@ location = "Seoul, Republic of Korea"
 enableGitalk = true
 
 [params.gitalk]
-clientID = "b5cbdc5c9072d95c0f39"
-clientSecret = "b2b73c48f61a492cd160f6ca6fd547dd64cf5417"
-repo = "claire-blog"
-owner = "jungclaire"
-admin = "jungclaire"
+clientID = "d8c75cc0140236fff6fe"
+clientSecret = "f2bc81809043695a10172c2cedb32674b315b5bb"
+repo = "changerlemond-blog"
+owner = "changerlemond"
+admin = "changerlemond"
 id = "location.pathname"
 labels = "gitalk"
 perPage = 30
