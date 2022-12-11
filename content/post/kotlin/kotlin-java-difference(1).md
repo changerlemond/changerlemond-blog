@@ -41,7 +41,8 @@ var number1: Long = 10L
 val number2: Long = 10L
 ```
 
-초기값을 지정해주지 않는 경우는?
+초기값을 지정해주지 않는 경우는?  
+
 **Kotlin**
 ```kotlin
 var number: Int
