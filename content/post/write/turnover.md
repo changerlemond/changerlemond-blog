@@ -1,6 +1,7 @@
 ---
 title: "개발자로 첫 이직을 준비하면서"
 date: 2023-01-15T22:45:22+09:00
+tags: ['thinking']
 draft: false
 ---
 
