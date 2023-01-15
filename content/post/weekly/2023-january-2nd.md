@@ -16,7 +16,7 @@ draft: false
 **정보처리기사 필기 공부 - 이론 + 문제 1회독 완료**
 
 <div style="text-align:left">
-    <img src="/images/weekly/january-1st/book-test.png" alt="book-image" width="400px" height="600px" />
+    <img src="/images/weekly/2023-january-1st/book-test.png" alt="book-image" width="400px" height="600px" />
 </div>
 
 <br>
