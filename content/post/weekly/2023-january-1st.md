@@ -13,7 +13,7 @@ draft: false
 **스프링 부트 쇼핑몰 프로젝트 with JPA 완료**  
 
 <div style="text-align:left">
-    <img src="/images/weekly/january-1st/book-jpa.png" alt="book-image" width="400px" height="600px" />
+    <img src="/images/weekly/2023-january-1st/book-jpa.png" alt="book-image" width="400px" height="600px" />
 </div>
 
 <br>
@@ -32,7 +32,7 @@ draft: false
 **정보처리기사 필기 공부 - Chapter 1 1회독 완료**
 
 <div style="text-align:left">
-    <img src="/images/weekly/january-1st/book-test.png" alt="book-image" width="400px" height="600px" />
+    <img src="/images/weekly/2023-january-1st/book-test.png" alt="book-image" width="400px" height="600px" />
 </div>
 
 <br>
@@ -46,7 +46,7 @@ draft: false
 **혼자 공부하는 컴퓨터 구조 + 운영체제 책 3회독 완료**
 
 <div style="text-align:left">
-    <img src="/images/weekly/january-1st/book-hongong.png" alt="book-image" width="400px" height="600px" />
+    <img src="/images/weekly/2023-january-1st/book-hongong.png" alt="book-image" width="400px" height="600px" />
 </div>
 
 <br>
@@ -60,7 +60,7 @@ draft: false
 **자료구조와 알고리즘 매일매일 ing**  
 
 <div style="text-align:left">
-    <img src="/images/weekly/january-1st/book-algorithm.png" alt="book-image" width="400px" height="600px" />
+    <img src="/images/weekly/2023-january-1st/book-algorithm.png" alt="book-image" width="400px" height="600px" />
 </div>
 
 <br>
@@ -92,7 +92,7 @@ draft: false
 **네일 관리하기**  
 
 <div style="text-align:left">
-    <img src="/images/weekly/january-1st/nail-0102.jpeg" alt="nail-image" width="500px" height="400px" />
+    <img src="/images/weekly/2023-january-1st/nail-0102.jpeg" alt="nail-image" width="500px" height="400px" />
 </div>
 
 <br>
@@ -105,7 +105,7 @@ draft: false
 **영화/드라마 보기**  
 
 <div style="text-align:left">
-    <img src="/images/weekly/january-1st/movie.png" alt="movie-image" width="500px" height="600px" />
+    <img src="/images/weekly/2023-january-1st/movie.png" alt="movie-image" width="500px" height="600px" />
 </div>
 
 <br>
@@ -118,7 +118,7 @@ draft: false
 **책 읽기**  
 
 <div style="text-align:left">
-    <img src="/images/weekly/january-1st/book-like.png" alt="book-image" width="500px" height="600px" />
+    <img src="/images/weekly/2023-january-1st/book-like.png" alt="book-image" width="500px" height="600px" />
 </div>
 
 <br>
@@ -134,7 +134,7 @@ draft: false
 ### 이직
 
 <div style="text-align:left">
-    <img src="/images/weekly/january-1st/pororo.png" alt="book-image" width="400px" height="500px" />
+    <img src="/images/weekly/2023-january-1st/pororo.png" alt="book-image" width="400px" height="500px" />
 </div>
 
 <br>
