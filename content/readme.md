@@ -1,15 +1,38 @@
-👩‍💻 현업에서 다뤄본 스킬 👩‍💻
+#
+### 👩🏻 ME 👩🏻
 
-`Java` `Spring boot` `Kafka(MSK)` `GraphQL` `MongoDB` `TypeScript` `AWS(EC2, S3)` `Grafana`
+- 🇰🇷 From Republic of Korea
+- Start to Develop at 2021 year
+- [Monee](https://www.moneeapp.com/) Software Engineer (2021.06 ~ 2022.11)
+- [Gmeum](https://www.gmeum.com/) Server BackEnd Developer (2023.01 ~ ing)
 
-****
+#
 
-✍ 현업에서 다뤄보고 싶어서 개인적으로 공부하고 있는 스킬 ✍
+### 🗣️ SPEAK
 
-`Kotlin` `Elastic Search` `RDBMS` `Spring batch` `RESTful API` `Jenkins`
+- Korean (한국어)
+- English (Beginner, Studying)
 
-****
+#### Programming 👩🏻‍💻
 
-💜 개인적으로 애정해서 깊게 보는 스킬 💜
+- Java: System.out.println("First server language")
+- Kotlin: println("Using server language now")
+- TypeScript: console.log("Used it a little bit")
 
-`Java` `Kotlin` `Kafka` `RDBMS`
+#
+
+### 🥰 Interesting 
+- Kotlin, Java, Rust
+- RDBMS
+- Kafka, Elastic Search, Lucene
+- Software Architecting
+
+#
+
+### Experience in the field ⚒️
+
+- Spring Boot, Spring Batch
+- GraphQL, REST API
+- MongoDB, MySQL, QueryDSL, JPA
+- Kafka, Elastic Search, Redis
+- AWS
