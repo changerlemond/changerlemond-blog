@@ -1,6 +1,7 @@
 ---
 title: "Spoke로 깔끔한 테스트 코드 작성하기"
 date: 2023-01-25T19:43:03+09:00
+tags: ['test']
 draft: false
 ---
 
