@@ -17,10 +17,10 @@ https://www.mongodb.com/events/mongodb-days-apac-2022/seoul
 나에게는 첫 오프라인 컨퍼런스였는데, 너무 몽고디비 홍보이진 않을까? 우려도 했지만 생각보다 그렇지 않고 오히려 데이터 관리를 잘해야겠구나 생각하게 된 컨퍼런스였다.
 
 <div style="text-align:center">
-    <img src="/images/conference/mongodb-conference-0.jpeg" alt="mongodb-conference" />
+    <img src="/images/conference/mongodb2022/mongodb-conference-0.jpeg" alt="mongodb-conference" />
 </div>
 <div style="text-align:center">
-    <img src="/images/conference/mongodb-conference-1.jpeg" alt="mongodb-conference" />
+    <img src="/images/conference/mongodb2022/mongodb-conference-1.jpeg" alt="mongodb-conference" />
 </div>
 
 가니까 사람이 굉장히 많았다. 엘리베이터에서 내리자마자 붐비는 인파에 줄을 서느라 정신이 없었다.
@@ -30,7 +30,7 @@ https://www.mongodb.com/events/mongodb-days-apac-2022/seoul
 컨플루언트 굿즈는 갔을 때 하나 남은 상태여서 받지 못했지만, 컨플루언트와 aws의 스티커들을 가져왔다. (~~보기 힘든 카프카 스티커 획득...~~)
 
 <div style="text-align:center">
-    <img src="/images/conference/mongodb-conference-4.jpeg" alt="mongodb-conference-stickers" />
+    <img src="/images/conference/mongodb2022/mongodb-conference-4.jpeg" alt="mongodb-conference-stickers" />
 </div>
 
 한 공간에서 계속 컨퍼런스를 듣는 시간들이었는데, 생각보다 많이 몽고디비에서 잘 준비해 주셔서 불편함이 없었다.
@@ -38,10 +38,10 @@ https://www.mongodb.com/events/mongodb-days-apac-2022/seoul
 (~~식사 제공을 이렇게 잘해주실지 몰랐다~~)
 
 <div style="text-align:center">
-    <img src="/images/conference/mongodb-conference-2.jpeg" alt="mongodb-conference-stickers" />
+    <img src="/images/conference/mongodb2022/mongodb-conference-2.jpeg" alt="mongodb-conference-stickers" />
 </div>
 <div style="text-align:center">
-    <img src="/images/conference/mongodb-conference-3.jpeg" alt="mongodb-conference-stickers" />
+    <img src="/images/conference/mongodb2022/mongodb-conference-3.jpeg" alt="mongodb-conference-stickers" />
 </div>
 
 <br />
@@ -173,7 +173,7 @@ Confluent에서 이러한 니즈를 잘 파고들어 서비스를 잘 만들었�
 이야기 해주셨던 주제는 비즈니스 / 데이터 트렌드 & 마이크로 서비스, MSA 구조에 맞는 목적별 디비를 사용해야 하는 이유, 몽고디비 사용 사례와 고객 사례를 발표해 주셨다.
 
 요즘 트렌드도 알려주셔서 참고가 되었다.
-```aidl
+```
 비즈니스 / 데이터 트렌드
 - 사용자와 데이터의 폭발적인 증가: 다양한 데이터 소스와 데이터 종류
 - 빠르게 변화하는 시장과 고객의 요구: DevOps 도입으로 인한 변화율 증가
@@ -231,10 +231,10 @@ MSA는 사실 의견이 많이 갈리는 주제인 것 같은데 상황에 맞�
 사실 오늘 컨퍼런스에 대한 설문조사를 하면 몽고디비 굿즈를 주셔서 그걸 기다리고 있었다.
 
 <div style="text-align:center">
-    <img src="/images/conference/mongodb-conference-5.jpeg" alt="mongodb-conference-stickers" />
+    <img src="/images/conference/mongodb2022/mongodb-conference-5.jpeg" alt="mongodb-conference-stickers" />
 </div>
 <div style="text-align:center">
-    <img src="/images/conference/mongodb-conference-6.jpeg" alt="mongodb-conference-stickers" />
+    <img src="/images/conference/mongodb2022/mongodb-conference-6.jpeg" alt="mongodb-conference-stickers" />
 </div>
 
 몽고디비 굿즈는 처음이기도 했지만 신경을 꽤나 써준 게 느껴졌었다.
