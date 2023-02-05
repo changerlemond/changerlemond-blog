@@ -85,6 +85,16 @@ QA 업무를 계속해서 많이 했다. 곧 프론트엔드 마이그레이션 
 AWS 멘토링 모임도 오랜만에 있었고, 문화생활을 이번주는 많은 사람들을 만나서 맛있는거 먹고, 여러 대화들을 하는 것이었다. 맛있는 것도 먹으니 좋고, 재밌는 대화도 하니까 재밌는 주말을 보냈다.
 스트레스가 요즘은 거의 없지만 더더욱이 사라졌다. 맛있는거 최고최고! 내가 좋아하는 사람들 최고최고!
 
+<div style="text-align:left; display:flex; justify-content: space-between">
+<div style="width: 49%">
+    <img src="/images/weekly/2023-february-1st/lunch1.jpeg" alt="image" width="600px" height="400px" />
+</div>
+<div style="width: 49%">
+    <img src="/images/weekly/2023-february-1st/lunch2.jpeg" alt="image" width="600px" height="400px" />
+</div>
+</div>
+<em>주말에 먹었던 음식 중에서 정말 맛있었던 브런치와 커피!</em>
+
 
 #
 ### 다음주는
