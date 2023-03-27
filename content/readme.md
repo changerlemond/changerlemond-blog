@@ -5,6 +5,7 @@
 - Start to Develop at 2021 year
 - [Monee](https://www.moneeapp.com/) Software Engineer (2021.06 ~ 2022.11)
 - [Gmeum](https://www.gmeum.com/) Server BackEnd Developer (2023.01 ~ ing)
+- Geultto 8th Member - Tech Writer (2023.01 ~ ing)
 
 #
 
