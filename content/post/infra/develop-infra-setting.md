@@ -234,8 +234,6 @@ port 6379
 cluster-enabled yes
 cluster-config-file node.conf
 cluster-node-timeout 5000
-appendonly yes
-protected-mode no
 cluster-announce-ip ${ec2-private-ip}
 cluster-announce-port 6379
 cluster-announce-bus-port 16379
