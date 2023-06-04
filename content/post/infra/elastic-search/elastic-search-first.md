@@ -1,7 +1,7 @@
 ---
 title: "엘라스틱 서치에 대해 알아보기"
 date: 2023-02-26T22:01:54+09:00
-tags: ['elastic-search']
+tags: ['elastic-search', 'infra']
 draft: false
 ---
 
