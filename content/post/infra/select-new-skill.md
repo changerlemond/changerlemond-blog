@@ -63,7 +63,7 @@ GraphDB는 나에게만 친숙하지 않은 것이 아니라, 생각보다 아�
 
 #
 ### 과연 도입이 최선일까?
-그렇게 세가지의 기술을 선정했다. 그리고 이 기술들을 리서치하면서 특징들을 정리해보았다.
+그렇게 세가지의 기술을 선정했다. 그리고 이 기술들을 리서치하면서 특징들을 간단하게 정리해보았다.
 
 <br>
 
@@ -86,9 +86,12 @@ GraphDB는 나에게만 친숙하지 않은 것이 아니라, 생각보다 아�
 <br>
 
 이렇게 세가지의 기술을 정리하고, 이 기술들을 리서치하면서 내린 결론을 이러했다.
-비용 측면 고려: JanusGraph > Neo4j > AWS Neptune
-관리 측면 고려: AWS Neptune > Neo4j > JanusGraph
-성능 측면 고려: JanusGraph > AWS Neptune > Neo4j
+
+```
+비용 측면 고려: JanusGraph > Neo4j > AWS Neptune  
+관리 측면 고려: AWS Neptune > Neo4j > JanusGraph  
+성능 측면 고려: JanusGraph > AWS Neptune > Neo4j  
+```
 
 그래서 내린 결론은 JanusGraph를 사용하는 것이 가장 좋을 것이라고 생각했지만, 관리적인 부분을 고려하지 않을 수 없었다.
 관리적인 측면을 고려해서 AWS 관리형인 Neptune을 사용하는 것 또한 프로젝트에는 부담이 되는 비용이었다.
