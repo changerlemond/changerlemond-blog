@@ -1,7 +1,7 @@
 ---
 title: "3월 1주차 회고"
 date: 2023-03-05T22:33:06+09:00
-draft: false
+draft: true
 tags: ['weekly']
 ---
 

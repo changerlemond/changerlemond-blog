@@ -2,7 +2,7 @@
 title: "1월 2주차 회고"
 date: 2023-01-15T21:29:10+09:00
 tags: ['weekly']
-draft: false
+draft: true
 ---
 1월 2주차 회고 (1/9~1/15)
 <!--more--> 

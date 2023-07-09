@@ -1,7 +1,7 @@
 ---
 title: "2월 3주차 회고"
 date: 2023-02-20T00:08:18+09:00
-draft: false
+draft: true
 tags: ['weekly']
 ---
 
